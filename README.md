@@ -5,5 +5,5 @@ Python3
 # Libraries used
 Numpy,PIL
 # Usage
-test_images folder contains images to run and check the output
+test_images folder contains images to run and check the output.
 main.py takes imagepath as input 
