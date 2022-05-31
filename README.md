@@ -1,9 +1,9 @@
-# dayNight classifier 
+### dayNight classifier 
 This deals with the classification of images taken in daytime or during the night 
-# Requirements
+### Requirements
 Python3 
-# Libraries used
+### Libraries used
 Numpy,PIL
-# Usage
+### Usage
 test_images folder contains images to run and check the output.
 main.py takes imagepath as input 
