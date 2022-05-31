@@ -47,7 +47,6 @@ ap.add_argument("-i", "--imagepath", required=True,
 	help="path to input image")
 args = vars(ap.parse_args())
 
-
 try:
 	classifier(args['imagepath'])
 except Exception as e:
